@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DSA and web dev.**
+- 🌱 I’m currently re-visiting **DSA and Advanced ML concepts.**
 
-- 👯 I’m looking to collaborate on **app dev projects and advanced image processing solutions.**
+- 👯 I’m looking to collaborate on **ML & DL projects and cross-platform app dev projects.**
 
 - 💬 Ask me about **anything** 😃
 
 - 📫 How to reach me **rvjani22@gmail.com**
 
-- ⚡ **Apart from these technical stuffs, I like to keep myself updated about various global issues through thoughtful reading.**
+- ⚡ **Besides this technical stuff, I like to keep myself updated about various global issues through thoughtful reading.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
